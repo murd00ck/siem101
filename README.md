@@ -17,4 +17,4 @@ Splunk - SIEM Buyer's Guide
 
 ## Contact
 
-Follow and contact me on Twitter @murd00ck
+Follow and contact me on [Twitter](https://twitter.com/murd00ck) @murd00ck
